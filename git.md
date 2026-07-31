@@ -40,3 +40,20 @@ aata again , we will makde changes and add them
 btw lets chekc if those changes are add to git or not.. so last changes we added properly
 
 now lets do this again..
+
+kalal ka..??????????
+
+<!-- okay now git add. -->
+
+okay now git add .
+
+<!-- git commite -->
+
+git committ -m "my message"
+
+<!-- git push  -->
+
+"git push -u origin main"
+
+/or master or whatever the branch is , u can see it here  (git branch)
+got it 
