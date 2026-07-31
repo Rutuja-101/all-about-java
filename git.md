@@ -23,8 +23,20 @@ bgh aata , now we made some changes right
 now to add these changes what we do is..:
 
 1. git add .  ---  yane sagle files include hotat (kalel he pn wait..) just see
-2. git commit -m "my commit message"
-3. git push -u origin main
+2. git commit -m "my commit message"   - 
+<!-- 3. git push -u origin main -->
+3. git push -u origin master
 
 
 cureently 2 fileche changes are there right..
+
+tr bgh - git push -u origin (ithla jo word asto to branch name asto) tr right now , branch name master aahe so we use master
+
+thiky..
+u can see here too
+
+
+aata again , we will makde changes and add them
+btw lets chekc if those changes are add to git or not.. so last changes we added properly
+
+now lets do this again..
